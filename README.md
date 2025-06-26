@@ -37,7 +37,15 @@ This portfolio uses a range of advanced visualisation techniques:
 ---
 
 ## 🖼️ Visual Preview
-
+**Dual-Axis Line Chart**
 ![Dual Axis Chart](images/dual-axis.png)
-![Choropleth Map](images/2016-17.png)(images/2017-18.png)(images/2018-19.png)(images/2019-20.png)(images/2020-21.png)
+
+**Choropleth Map**
+![Choropleth Map](images/2016-17.png)
+![Choropleth Map](images/2017-18.png)
+![Choropleth Map](images/2018-19.png)
+![Choropleth Map](images/2019-20.png)
+![Choropleth Map](images/2020-21.png)
+
+**Stacked Area Chart**
 ![Stacked Area Chart](images/stacked-area.png)
